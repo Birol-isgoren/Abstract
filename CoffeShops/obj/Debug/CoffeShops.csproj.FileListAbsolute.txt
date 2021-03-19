@@ -1,0 +1,9 @@
+C:\Users\Birol\documents\visual studio 2013\Projects\Solution1\CoffeShops\bin\Debug\CoffeShops.exe.config
+C:\Users\Birol\documents\visual studio 2013\Projects\Solution1\CoffeShops\bin\Debug\CoffeShops.exe
+C:\Users\Birol\documents\visual studio 2013\Projects\Solution1\CoffeShops\bin\Debug\CoffeShops.pdb
+C:\Users\Birol\documents\visual studio 2013\Projects\Solution1\CoffeShops\obj\Debug\CoffeShops.csprojResolveAssemblyReference.cache
+C:\Users\Birol\documents\visual studio 2013\Projects\Solution1\CoffeShops\obj\Debug\CoffeShops.exe
+C:\Users\Birol\documents\visual studio 2013\Projects\Solution1\CoffeShops\obj\Debug\CoffeShops.pdb
+C:\Users\Birol\Documents\Visual Studio 2013\Projects\Abstract\CoffeShops\bin\Debug\CoffeShops.exe.config
+C:\Users\Birol\Documents\Visual Studio 2013\Projects\Abstract\CoffeShops\obj\Debug\CoffeShops.exe
+C:\Users\Birol\Documents\Visual Studio 2013\Projects\Abstract\CoffeShops\obj\Debug\CoffeShops.pdb
